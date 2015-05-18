@@ -12,7 +12,7 @@ Essa definição é feita pelos colaboradores da comunidade, sempre é levado em
 
 ##Público Alvo
 
-Nosso público alvo é profissionais da área de tecnologia, empresas e entusiastas. Não temos nenhuma bandeira, nossa busca é pelo o aprendizado e disseminaçãod o conhecimento.
+Nosso público alvo é profissionais da área de tecnologia, empresas e entusiastas. Não temos nenhuma bandeira, nossa busca é pelo o aprendizado e disseminação do conhecimento.
 
 ##Retorno do Patrocínio
 
