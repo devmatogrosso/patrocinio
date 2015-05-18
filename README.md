@@ -22,7 +22,8 @@ Mostrar a sua empresa para um público grande e interessado em ajudar pode traze
 ##Custos
 
 Não temos um valor fixo, mas sim necessidades. Nosso primeiro evento foi gasto R$ 137,00 reais. Alugando cadeiras, comprando bebidas e gelo. Depende do que será feito, mas qualquer ajuda é bem vinda. 
-
+ > Sempre divulgamos a tabela de gastos, para que possa ter transparência nos gastos.
+ 
 ##Como será a divulgação da marca? 
 
 Acima de tudo buscamos transparência no que estamos fazendo, cada marca terá o seu espaço dentro de cada evento, seja em banner, flyer ou cartões, o que a patrocinadora disponibilizar de material para a divulgação.
