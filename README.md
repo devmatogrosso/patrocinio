@@ -30,11 +30,10 @@ Acima de tudo buscamos transparência no que estamos fazendo, cada marca terá o
 ##Ei, eu quero patrocinar. Como posso fazer isso? 
 
 Como foi falado acima, não só de dinheiro vive um evento. 
-
- 1.1 - Dinheiro (qualquer valor).
- 1.1 - Camisetas, Canecas, Canetas, etc. (Com a marca da empresa).
- 1.1 - Veículos de comunicação.
- 1.1 - O que você achar melhor que possa ajudar a comunidade.
+ 1. Dinheiro (qualquer valor).
+ 1. Camisetas, Canecas, Canetas, etc. (Com a marca da empresa).
+ 1. Veículos de comunicação.
+ 1. O que você achar melhor que possa ajudar a comunidade.
 
 ##Contatos
 
