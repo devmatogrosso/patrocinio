@@ -39,3 +39,7 @@ Como foi falado acima, não só de dinheiro vive um evento.
 ##Contatos
 
 Mande uma [issue](https://github.com/devmatogrosso/patrocinio/issues/new) ou [e-mail](mailto:devmatogrosso@gmail.com) caso tenha interesse. Obrigado pela atenção.
+
+##Patrocinadores
+
+[<img src="http://www.nuvem.net/Content/img/logo.png" height="45" weight="15">](http://www.nuvem.net/)
