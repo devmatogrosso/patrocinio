@@ -38,4 +38,4 @@ Como foi falado acima, não só de dinheiro vive um evento.
 
 ##Contatos
 
-Mande uma issue caso tenha interesse. Obrigado pela atenção.
+Mande uma [issue](https://github.com/devmatogrosso/patrocinio/issues/new) ou [e-mail](mailto:devmatogrosso@gmail.com) caso tenha interesse. Obrigado pela atenção.
